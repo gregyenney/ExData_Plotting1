@@ -1,4 +1,12 @@
-## Introduction
+## My Project Introduction
+This repo contains my submission for project 1.
+To reproduce my versions of the graphs you may:
+1. git clone <this repo>
+2. Execute each plot script:  plot1.R, plot2.R, plot3.R and plot4.R
+
+
+
+## Introduction to Forked Repo
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
